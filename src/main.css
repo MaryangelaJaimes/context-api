@@ -1,0 +1,9 @@
+.imagen_logo {
+  height: 9rem;
+  display: block;
+}
+
+.imagen_error {
+  height: 100vh;
+  width: 100%;
+}
